@@ -1,0 +1,3 @@
+[submodule "minit"]
+	path = minit
+	url = ./minit
