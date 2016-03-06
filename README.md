@@ -1,9 +1,17 @@
-# docker-base-debian
+# docker-debian-minit
 
 Base docker image based on Debian Jessie.
 
 This is a minimal Debian image used on my other images
 based on Debian.
+
+## Installation
+
+Simply pull the image from docker hub:
+
+```sh
+docker pull emarcs/debian-minit
+```
 
 ## The PID 1 zombie reaper problem
 
