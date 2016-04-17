@@ -2,6 +2,8 @@
 
 Base docker image based on Debian Jessie.
 
+[![](https://badge.imagelayers.io/emarcs/debian-minit:latest.svg)](https://imagelayers.io/?images=emarcs/debian-minit:latest 'Get your own badge on imagelayers.io')
+
 This is a minimal Debian image used on my other images
 based on Debian.
 
